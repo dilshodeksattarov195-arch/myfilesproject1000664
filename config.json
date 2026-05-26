@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "emailcerify",
+        "uuid": 894408,
+        "checksum": "2ck48"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
